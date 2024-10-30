@@ -142,6 +142,14 @@ Um agradecimento especial a todos que contribuíram ao projeto!
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/reidn3r">
+        <img src="https://avatars.githubusercontent.com/u/121988116?v=4" width="100px;" alt="Foto do Reidner Adnan"/><br>
+        <sub>
+          <b>Reidner Adnan</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
